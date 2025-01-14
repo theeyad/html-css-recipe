@@ -1,0 +1,113 @@
+body {
+    background-color: #FFE8B6;
+    color: white;
+}
+
+.dish_name {
+    color: #5B913B;
+    text-align: left;
+    font-family: "Sansita", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 60px;
+    margin-left: 10px;
+}
+
+.first_dish_image {
+    width: 512px;    
+    height: 410px;
+    margin-left: 80px;
+}
+
+.second_dish_image {
+    width: 410px;    
+    height: 410px;
+}
+
+.original {
+    width: 1450px;
+    height: 5px;
+    background-color: #d0a412;
+    margin-left: 20px;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.First_Subtitle {
+    color: #7ab27b;
+    text-align: left;
+    font-family: "Sansita", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    margin-left: 10px;
+}
+
+.ingredients {
+    color: #D99D81;
+    text-align: left;
+    font-family: "Helvetica", serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+.copied {
+    width: 1200px;
+    height: 5px;
+    background-color: #d0a412;
+    margin-top: 20px;
+}
+
+.Second_Subtitle {
+    color: #7ab27b;
+    text-align: left;
+    font-family: "Sansita", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    margin-left: 10px;
+}
+
+a {
+    margin-left: 10px;
+    font-size: 18px;
+    color: blue;
+}
+
+p {
+    color: black;
+}
+
+.contacts {
+    color: #5B913B;
+    text-align: left;
+    font-family: "Sansita", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 40px;
+    margin-left: 10px;
+}
+
+.Contact {
+    color: black;
+}
+
+.Head {
+    color: #5B913B;
+    text-align: left;
+    font-family: "Sansita", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 40px;
+    margin-left: 10px;  
+}
+
+.Dishes {
+    color: black;
+}
